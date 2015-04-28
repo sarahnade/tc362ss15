@@ -6,4 +6,20 @@ body {
   line-height: 18px;
   text-align: center;
   width: 100%;
+
+  img {
+    width: 25%;
+  }
+
+  p {
+    margin: 0 auto;
+    padding-bottom: 8px;
+    text-align: left;
+    width: 40%;
+  }
+
+  #home {
+    font-size: 45px;
+    margin-top: 20%;
+  }
 }
